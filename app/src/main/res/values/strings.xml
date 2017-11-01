@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleBookAPI</string>
+    <string name="searchbutton">Search</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_books_found">No Books Found</string>
+    <string name="instructions">Enter a title below to search for a book</string>
+    <string name="loading">Loading...</string>
+    <string name="unknown">unknown author</string>
+    <string name="no_search">No search entered</string>
+</resources>
